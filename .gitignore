@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Local environment
+.env
+.env.local
+.vercel/
+
+# Python cache (if used for CV generator)
+__pycache__/
+*.pyc
+*.pyo
+
+# GitHub / deployment artifacts
+node_modules/
